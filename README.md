@@ -2,7 +2,8 @@
 Get ET(Env. Tem.) and BT(Bean Tem.) data from Artisan Roaster software, and sends these data to MySQL.
 
 ### video demo
-[embed](https://www.youtube.com/watch?v=bn2-rUCFG7U)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bn2-rUCFG7U/0.jpg)](https://www.youtube.com/watch?v=bn2-rUCFG7U)
+
 This video demonstrates WebSocket communication protocol feature of Artisan Roaster software. It utilizes Python-built WebSocket server to acquire BT (Bean Temperature) and ET (Environmental Temperature) data from Artisan Roaster software, and sends these data in real-time into a MySQL database.
 
 This functionality can be applied in the following scenarios:
